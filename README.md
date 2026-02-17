@@ -28,16 +28,6 @@ Technologies Used
 
 ---
 
-Project Structure
-
----
-face_emotion_detection/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── model files (if any)
-
 Installation & Setup
 
  1 Clone the Repository
